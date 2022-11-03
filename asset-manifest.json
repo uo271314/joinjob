@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/joinjob/static/css/main.3ba11a60.css",
-    "main.js": "/joinjob/static/js/main.abe73bd8.js",
+    "main.js": "/joinjob/static/js/main.6e030316.js",
     "index.html": "/joinjob/index.html",
     "main.3ba11a60.css.map": "/joinjob/static/css/main.3ba11a60.css.map",
-    "main.abe73bd8.js.map": "/joinjob/static/js/main.abe73bd8.js.map"
+    "main.6e030316.js.map": "/joinjob/static/js/main.6e030316.js.map"
   },
   "entrypoints": [
     "static/css/main.3ba11a60.css",
-    "static/js/main.abe73bd8.js"
+    "static/js/main.6e030316.js"
   ]
 }
