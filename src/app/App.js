@@ -81,7 +81,7 @@ class App extends React.Component {
                     <Row>
                         <Link to={ "/" }>
                             <Col xs={18} sm={17} md={10} lg={9} xl={8}>
-                                <img src="/logo.png" /> 
+                                <img src="../joinjob/public/logo.png" /> 
                             </Col>
                         </Link>
 
