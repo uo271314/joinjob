@@ -1,7 +1,6 @@
 {
   "name": "joinjob",
   "version": "0.1.0",
-  "homepage": "https://uo271314.github.io/joinjob",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
